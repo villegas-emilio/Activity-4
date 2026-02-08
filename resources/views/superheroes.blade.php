@@ -8,15 +8,17 @@
         <table>
             <thead>
                 <tr>
+                    <td>ID Superheroe</td>
                     <td>Superheroe Name</td>
                     <td>Real Name</td>
                     <td>Gender</td>
-                    <td>Universe</td>
+                    <td>ID Universe</td>
                 </tr>
             </thead>
 
             <tbody>
                 <tr>
+                    <td>1</td>
                     <td>Spiderman</td>
                     <td>Peter Benjamin Parker</td>
                     <td>male</td>
@@ -26,6 +28,7 @@
 
             <tbody>
                 <tr>
+                    <td>2</td>
                     <td>Hulk</td>
                     <td>Robert Bruce Banner</td>
                     <td>male</td>
@@ -35,6 +38,7 @@
 
             <tbody>
                 <tr>
+                    <td>3</td>
                     <td>Capitan America</td>
                     <td>Steve Rogers</td>
                     <td>male</td>
@@ -44,6 +48,7 @@
 
             <tbody>
                 <tr>
+                    <td>4</td>
                     <td>Superman</td>
                     <td>Clark Kent</td>
                     <td>male</td>
@@ -53,6 +58,7 @@
 
             <tbody>
                 <tr>
+                    <td>5</td>
                     <td>Batman</td>
                     <td>Bruce Wayne</td>
                     <td>male</td>
@@ -62,6 +68,7 @@
 
             <tbody>
                 <tr>
+                    <td>6</td>
                     <td>Scarlet Spider</td>
                     <td>Ben Riley</td>
                     <td>male</td>
@@ -71,6 +78,7 @@
 
             <tbody>
                 <tr>
+                    <td>7</td>
                     <td>Wonder Woman</td>
                     <td>Diana Prince</td>
                     <td>female</td>
@@ -80,6 +88,7 @@
 
             <tbody>
                 <tr>
+                    <td>8</td>
                     <td>Doomsday</td>
                     <td>Not applicable</td>
                     <td>male</td>
@@ -89,6 +98,7 @@
 
             <tbody>
                 <tr>
+                    <td>9</td>
                     <td>Sacarlet Witch</td>
                     <td>Wanda Maximoff</td>
                     <td>female</td>
@@ -98,6 +108,7 @@
 
             <tbody>
                 <tr>
+                    <td>10</td>
                     <td>Night Wing</td>
                     <td>Dick Grayson</td>
                     <td>male</td>
@@ -106,4 +117,5 @@
             </tbody>
         </table>
     </body>
+
 </html>
