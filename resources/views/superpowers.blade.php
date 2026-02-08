@@ -8,6 +8,7 @@
         <table>
             <thead>
                 <tr>
+                    <td>ID Superpower</td>
                     <td>Superpower name</td>
                     <td>Description</td>
                 </tr>
@@ -15,6 +16,7 @@
 
             <tbody>
                 <tr>
+                    <td>1</td>
                     <td>Super Strength</td>
                     <td>Ability to exert strength far beyond human limits</td>
                 </tr>
@@ -22,6 +24,7 @@
 
             <tbody>
                 <tr>
+                    <td>2</td>
                     <td>Web-Slinging</td>
                     <td>Ability to shoot webs and swing between buildings</td>
                 </tr>
@@ -29,6 +32,7 @@
 
             <tbody>
                 <tr>
+                    <td>3</td>
                     <td>Regeneration</td>
                     <td>Ability to heal rapidly from injuries</td>
                 </tr>
@@ -36,6 +40,7 @@
 
             <tbody>
                 <tr>
+                    <td>4</td>
                     <td>Flight</td>
                     <td>Ability to fly through the air</td>
                 </tr>
@@ -43,6 +48,7 @@
 
             <tbody>
                 <tr>
+                    <td>5</td>
                     <td>Enhanced Intelligence</td>
                     <td>Extraordinary intellectual capabilities</td>
                 </tr>
@@ -50,6 +56,7 @@
 
             <tbody>
                 <tr>
+                    <td>6</td>
                     <td>Martial Arts Mastery</td>
                     <td>Expert-level combat and fighting skills</td>
                 </tr>
@@ -57,6 +64,7 @@
 
             <tbody>
                 <tr>
+                    <td>7</td>
                     <td>Magic Manipulation</td>
                     <td>Ability to use and control magical energies</td>
                 </tr>
@@ -64,6 +72,7 @@
 
             <tbody>
                 <tr>
+                    <td>8</td>
                     <td>Invulnerability</td>
                     <td>Resistance to physical damage</td>
                 </tr>
@@ -71,6 +80,7 @@
 
             <tbody>
                 <tr>
+                    <td>9</td>
                     <td>Super Speed</td>
                     <td>Ability to move at extremely high speeds</td>
                 </tr>
@@ -78,10 +88,12 @@
 
             <tbody>
                 <tr>
+                    <td>10</td>
                     <td>Energy Projection</td>
                     <td>Ability to project energy blasts</td>
                 </tr>
             </tbody>
         </table>
     </body>
+
 </html>
